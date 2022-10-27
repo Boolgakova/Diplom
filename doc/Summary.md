@@ -5,17 +5,17 @@
 - проведено исследовательское тестирование функционала веб-сервиса покупки тура "Путешествие дня".
 - настроен удобный запуск SUT с быстрым подключением к необходимой БД.
 - запущена и настроена CI, запускающая тесты на обеих заявленных БД: MySQL и PostgreSQL.
-- составлен [план автоматизации] (https://github.com/Yarozkiy/Diplom/blob/main/docs/Plan.md) предусматривающий 53 тестовых сценария (16 сценариев API тестирования и 37 на
+- составлен [план автоматизации](https://github.com/Yarozkiy/Diplom/blob/main/docs/Plan.md) предусматривающий 53 тестовых сценария (16 сценариев API тестирования и 37 на
   UI тестирование).
 - написан необходимый для автоматизации тестовый фреймворк (
-  [page objects] (https://github.com/Yarozkiy/Diplom/tree/main/src/test/java/ru/netology/dailyTrip/pages) для взаимодествия с
+  [page objects](https://github.com/Yarozkiy/Diplom/tree/main/src/test/java/ru/netology/dailyTrip/pages) для взаимодествия с
   элементами веб-сервиса и
-  [helpers] (https://github.com/Yarozkiy/Diplom/tree/main/src/test/java/ru/netology/dailyTrip/helpers) для управления тестовыми данными).
+  [helpers](https://github.com/Yarozkiy/Diplom/tree/main/src/test/java/ru/netology/dailyTrip/helpers) для управления тестовыми данными).
   При этом тестовые данные независимы от текущей даты и генерируются случайно для избежания эффекта пестицида.
 - автоматизированы все 53 заявленных в плане тестовых сценария. Помимо заявленных было добавлено ещё 7 дополнительных
   сценария тестирования UI.
-- составлен [отчет] (https://github.com/Yarozkiy/Diplom/blob/main/docs/Report.md) по результату прогона тестов.
-- созданы 16 [issue] (https://github.com/Yarozkiy/Diplom/issues) по найденным дефектам.
+- составлен [отчет](https://github.com/Yarozkiy/Diplom/blob/main/docs/Report.md) по результату прогона тестов.
+- созданы 16 [issue](https://github.com/Yarozkiy/Diplom/issues) по найденным дефектам.
 
 ## Сработавшие риски
 
