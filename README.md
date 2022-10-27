@@ -1,13 +1,13 @@
 # Дипломный проект профессии «Тестировщик»
 
 ## Документация
-1. [Текст задания](docs/Exercise.md)
+1. [Текст задания] (https://github.com/Yarozkiy/Diplom/blob/master/doc/Exercise.md)
 
-1. [План автоматизации](docs/Plan.md)
+1. [План автоматизации] (https://github.com/Yarozkiy/Diplom/blob/master/doc/Plan.md)
 
-1. [Отчётные документы по итогам тестирования](docs/Report.md)
+1. [Отчётные документы по итогам тестирования] (https://github.com/Yarozkiy/Diplom/blob/master/doc/Report.md)
 
-1. [Отчётные документы по итогам автоматизации](docs/Summary.md)
+1. [Отчётные документы по итогам автоматизации] (https://github.com/Yarozkiy/Diplom/blob/master/doc/Summary.md)
 
 
 
